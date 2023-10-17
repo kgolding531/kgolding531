@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kgolding531!
 - 👀 I’m interested in technology, writing, data entry and volunteering.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web and software development.
 - 📫 Reach me via email at kgolding531@gmail.com.
 
 <!---
